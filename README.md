@@ -39,7 +39,7 @@ So, I decided to study and I created a simple monorepo folder structure.
 
 ## 🚀 Technologies
 
-Technologies that I used to develop this frontend app
+Main technologies that I used to develop this frontend app
 
 - [Express](https://expressjs.com/)
 - [Cors](https://expressjs.com/en/resources/middleware/cors.html)
