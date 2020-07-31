@@ -45,13 +45,14 @@ In addition to the UI that looks like Discord, some features were created in the
 
 Technologies that I used to develop this frontend app
 
+- [Express](https://expressjs.com/)
+- [Cors](https://expressjs.com/en/resources/middleware/cors.html)
 - [ReactJS](https://nodejs.org/en)
+- [React-Native](https://reactnative.dev/docs/getting-started)
+- [Expo](https://docs.expo.io)
 - [TypeScript](https://www.typescriptlang.org)
-- [React-Icons](https://github.com/wwayne/react-tooltip)
-- [Styled-Icons](https://styled-icons.js.org)
-- [React-Tooltip](https://react-leaflet.js.org)
-- [Styled-Components](https://styled-components.com)
-- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
+- [Jest](https://jestjs.io/docs/en/getting-started)
+- [VS Code](https://code.visualstudio.com) with [ESLint](https://eslint.org/docs/user-guide/getting-started), [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Getting started
 
@@ -102,4 +103,4 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/discord-clone/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/monorepo/blob/master/LICENSE) for more information.
