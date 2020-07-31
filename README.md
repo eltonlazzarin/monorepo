@@ -48,10 +48,10 @@ Technologies that I used to develop this frontend app
 - [Express](https://expressjs.com/)
 - [Cors](https://expressjs.com/en/resources/middleware/cors.html)
 - [ReactJS](https://nodejs.org/en)
-- [React-Native](https://reactnative.dev/docs/getting-started)
-- [Expo](https://docs.expo.io)
 - [TypeScript](https://www.typescriptlang.org)
 - [Jest](https://jestjs.io/docs/en/getting-started)
+- [React-Native](https://reactnative.dev/docs/getting-started)
+- [Expo](https://docs.expo.io)
 - [VS Code](https://code.visualstudio.com) with [ESLint](https://eslint.org/docs/user-guide/getting-started), [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Getting started
