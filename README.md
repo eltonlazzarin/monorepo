@@ -30,13 +30,6 @@
 
 ## 👨🏻‍💻 About the project
 
-<h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/discord-clone/blob/master/screenshots/discordclone.gif" />
-</h1>
-
-<p align="center">
-  <button><a href="https://discord-clone-ui.netlify.app/"><img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png" target="_blank"></img></a></button>
-
 <p>
 In revision control systems, a monorepo is a software development strategy where code for many projects is stored in the same repository.
 
