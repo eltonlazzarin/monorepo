@@ -37,9 +37,12 @@
 <p align="center">
   <button><a href="https://discord-clone-ui.netlify.app/"><img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png" target="_blank"></img></a></button>
 
-<p>This is a project that consists of creating a clone of the Discord website that was conceived from an online class. The project was developed in ReactJS together with TypeScript and other tools.
+<p>
+In revision control systems, a monorepo is a software development strategy where code for many projects is stored in the same repository.
 
-In addition to the UI that looks like Discord, some features were created in the project, including being able to type and view messages in real time, giving a more realistic and interactive appearance.</p>
+So, I decided to study and I created a simple monorepo folder structure.
+
+</p>
 
 ## 🚀 Technologies
 
